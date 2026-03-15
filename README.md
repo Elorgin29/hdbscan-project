@@ -19,7 +19,7 @@ Ce package fournit une implémentation complète de l'algorithme HDBSCAN (Hierar
 
 ```bash
 # Cloner ou copier le répertoire du package
-git clone <repository-url>
+git clone https://github.com/Elorgin29/hdbscan-project
 cd hdbscan_package
 
 # Ou simplement copier les fichiers dans votre projet
