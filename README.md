@@ -28,7 +28,6 @@ cd hdbscan_package
 ## Structure du package
 
 ```
-hdbscan_package/
 ├── __init__.py          # Exports des classes principales
 ├── distance.py          # Calcul des matrices de distance
 ├── hdbscan.py          # Classe principale HDBSCAN
